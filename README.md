@@ -1,0 +1,2 @@
+# RSVP-Movies-Analysis
+RSVP Movies is an Indian film production company which has produced many super-hit movies. They have usually released movies for the Indian audience but for their next project, they are planning to release a movie for the global audience in 2022. Analyzed past 3 years movie data to determine trends and draw meaningful insights that can help RSVP Movies in their next global project planning. This is an assignment, done solely for learning purpose.  Data collected from UpGrad learning platform. 
